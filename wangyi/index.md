@@ -1,4 +1,7 @@
-This page: https://lostferry.github.io/lostarticles/wangyi/
+This page: 
+
+- [https://lostferry.github.io/lostarticles/wangyi/](https://lostferry.github.io/lostarticles/wangyi/)
+- [repo](https://github.com/lostferry/lostarticles)
 
 All:
 
